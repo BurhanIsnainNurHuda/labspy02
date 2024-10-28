@@ -25,3 +25,7 @@
 # Hasil Eksekusi Program
 
     1. Input
+![IMG_20241028_130201](https://github.com/user-attachments/assets/297fdc23-8583-4c26-9a64-57f4b3c3b505)
+
+    Output
+![IMG_20241028_130525](https://github.com/user-attachments/assets/1bdc2df7-3f3a-463c-a8ce-973183e31816)
