@@ -19,11 +19,20 @@
 
 # Penjelasan Code Diatas
 
-    1. Input Bilangan
+   1. Input Bilangan
 ![IMG_20241028_132901](https://github.com/user-attachments/assets/1c11c16f-c36a-4678-83a5-8c6941549efd)
 
-    •`input()` digunakan untuk meminta pengguna memasukkan bilangan. Fungsi ini mengembalikan nilai dalam bentuk string,        sehingga kita perlu mengonversinya menjadi tipe `float` agar dapat menangani bilangan desimal.
-    • Nilai yang dimasukkan oleh pengguna disimpan dalam variabel A, B, dan C.
+    •`input()` digunakan untuk memasukkan bilangan. Fungsi ini mengembalikan nilai dalam bentuk string,        sehingga kita perlu mengonversinya menjadi tipe `float` agar dapat menangani bilangan desimal.
+    • Nilai yang dimasukkan oleh akan disimpan dalam variabel A, B, dan C.
+
+
+   2.Menentukan Bilangan Terbesar
+![IMG_20241028_133437](https://github.com/user-attachments/assets/1ab443fb-d98d-4f21-ac28-ff28d3d728c3)
+
+    •`if`: Program memeriksa apakah A adalah bilangan terbesar dengan membandingkannya dengan B dan C. Jika A lebih besar atau sama dengan B dan C, maka A disimpan dalam variabel terbesar.
+    •`elif`: Jika kondisi pertama tidak terpenuhi, program memeriksa apakah B adalah yang terbesar. Jika B lebih besar  atau sama dengan A dan C, maka B disimpan dalam variabel terbesar.
+    •`else`: Jika kedua kondisi di atas tidak terpenuhi, maka C adalah bilangan terbesar, dan C disimpan dalam variabel terbesar.
+
 
 
 # Flowchart 
