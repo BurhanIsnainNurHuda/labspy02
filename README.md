@@ -29,3 +29,20 @@
 
     Output
 ![IMG_20241028_130525](https://github.com/user-attachments/assets/1bdc2df7-3f3a-463c-a8ce-973183e31816)
+
+ 
+    
+    2.Input
+![IMG_20241028_131056](https://github.com/user-attachments/assets/b48b3ee7-5bf8-472c-b6df-6aa4c6f1776a)
+
+    Output 
+![IMG_20241028_131234](https://github.com/user-attachments/assets/3461256d-cff6-48e9-a6b4-a6750a3cf677)
+
+
+    
+    3. Input
+![IMG_20241028_131545](https://github.com/user-attachments/assets/447aa0e2-944c-42b9-8f4f-ad5fe1ffa6e0)
+
+    Output 
+![IMG_20241028_131853](https://github.com/user-attachments/assets/6369a31e-ead2-4aeb-a733-05af5c94a717)
+    
