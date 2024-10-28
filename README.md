@@ -57,10 +57,12 @@
  
     
     2.Input
-![IMG_20241028_131056](https://github.com/user-attachments/assets/b48b3ee7-5bf8-472c-b6df-6aa4c6f1776a)
+![IMG_20241028_140033](https://github.com/user-attachments/assets/413059d9-0327-4299-ba1f-fac1ac89abcc)
+
 
     Output 
-![IMG_20241028_131234](https://github.com/user-attachments/assets/3461256d-cff6-48e9-a6b4-a6750a3cf677)
+![IMG_20241028_140247](https://github.com/user-attachments/assets/b48b0318-919c-4d3f-a981-059946c89e1c)
+
 
 
     
