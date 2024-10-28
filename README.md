@@ -21,7 +21,8 @@
 
  1. Input Bilangan
 
-![IMG_20241028_132901](https://github.com/user-attachments/assets/1c11c16f-c36a-4678-83a5-8c6941549efd)
+![IMG_20241028_135408](https://github.com/user-attachments/assets/90798dd9-8b29-489b-8480-fb03ac42cc50)
+
 
 
         •`input()` digunakan untuk memasukkan bilangan. Fungsi ini mengembalikan nilai dalam bentuk string, sehingga kita perlu mengonversinya menjadi tipe `float` agar dapat menangani bilangan desimal.
